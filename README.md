@@ -62,7 +62,7 @@ Open your web browser and navigate to the address displayed in the terminal, usu
 
 Special thanks to:
 
-- **Tirendaz AI:** The inspiration for this project came from the insightful YouTube video: [How to Use Llama 2 with PandasAI and Ollama Locally](https://youtu.be/_dDaNgBDoHY?si=QeSwphhbrVtQE_cU). 
+- **Tirendaz AI:** The inspiration for this project came from the insightful YouTube video: [How to Use Llama 3 with PandasAI and Ollama Locally](https://youtu.be/_dDaNgBDoHY?si=QeSwphhbrVtQE_cU). 
 
 
 ## Requirements 
