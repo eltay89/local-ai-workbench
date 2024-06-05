@@ -53,7 +53,7 @@ This repository houses a versatile Streamlit application designed for interactin
 ### Running the App
 
 ```bash
-streamlit run app.py
+streamlit run My_Chatbot.py
 ```
 
 Open your web browser and navigate to the address displayed in the terminal, usually `http://localhost:8501`.
